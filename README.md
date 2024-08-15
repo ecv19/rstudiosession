@@ -6,3 +6,5 @@ This includes the extensive skills page: https://skills.github.com/.
 You should have completed: 
 - (1) "introduction-to-github" course: https://github.com/skills/introduction-to-github
 - (2) "pull request" course: https://github.com/skills/review-pull-requests
+
+Email: aljosephson@arizona.edu
